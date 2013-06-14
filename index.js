@@ -1,5 +1,6 @@
 module.exports = {
 	Date: require('./lib/date.js'),
+	Json: require('./lib/json.js'),
 	Net: require('./lib/net.js'),
 	Number: require('./lib/number.js'),
 	Object: require('./lib/object.js'),
