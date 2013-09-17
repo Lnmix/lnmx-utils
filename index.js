@@ -1,4 +1,5 @@
 module.exports = {
+	Cache: require('./lib/cache.js'),
 	Date: require('./lib/date.js'),
 	Json: require('./lib/json.js'),
 	Net: require('./lib/net.js'),
