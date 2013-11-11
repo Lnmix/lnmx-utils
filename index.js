@@ -7,5 +7,6 @@ module.exports = {
 	Object: require('./lib/object.js'),
 	String: require('./lib/string.js'),
 	Tick: require('./lib/tick.js'),
-	TimeCalcQueue: require('./lib/timeCalcQueue.js')
+	TimeCalcQueue: require('./lib/timeCalcQueue.js'),
+	middleware: require('./lib/middleware')
 }
