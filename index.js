@@ -8,5 +8,6 @@ module.exports = {
 	String: require('./lib/string.js'),
 	Tick: require('./lib/tick.js'),
 	TimeCalcQueue: require('./lib/timeCalcQueue.js'),
+	errors: require('./lib/errors.js'),
 	middleware: require('./lib/middleware')
 }
