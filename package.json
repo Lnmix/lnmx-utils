@@ -14,6 +14,7 @@
   "license": "BSD",
   "dependencies": {
     "lru-cache": "2.2.x",
+    "lnmx-log": "git://github.com/Lnmix/lnmx-log.git",
     "simple-class": "~1.0.0"
   }
 }
