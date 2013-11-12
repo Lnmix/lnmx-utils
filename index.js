@@ -9,5 +9,7 @@ module.exports = {
 	Tick: require('./lib/tick.js'),
 	TimeCalcQueue: require('./lib/timeCalcQueue.js'),
 	errors: require('./lib/errors.js'),
-	middleware: require('./lib/middleware')
+	middleware: require('./lib/middleware'),
+	Schedule: require('./lib/Schedule.js'),
+	Upgrade: require('./lib/upgrade/Upgrade.js')
 }
