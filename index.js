@@ -12,5 +12,6 @@ module.exports = {
 	middleware: require('./lib/middleware'),
 	Schedule: require('./lib/Schedule.js'),
 	Upgrade: require('./lib/upgrade/Upgrade.js'),
-	Fixtures: require('./lib/Fixtures.js')
+	Fixtures: require('./lib/Fixtures.js'),
+	Log: require('./lib/Log.js')
 }
