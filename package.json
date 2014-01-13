@@ -13,6 +13,7 @@
   "author": "Leadnomics",
   "license": "BSD",
   "dependencies": {
+    "step": "*",
     "lru-cache": "2.2.x",
     "simple-class": "~1.0.0"
   }
