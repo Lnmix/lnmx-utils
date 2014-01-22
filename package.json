@@ -1,6 +1,6 @@
 {
   "name": "lnmx-utils",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,8 +13,8 @@
   "author": "Leadnomics",
   "license": "BSD",
   "dependencies": {
-    "step": "*",
     "lru-cache": "2.2.x",
-    "simple-class": "~1.0.0"
+    "simple-class": "~1.0.0",
+    "async": "~0.2.9"
   }
 }
