@@ -13,5 +13,6 @@ module.exports = {
 	Schedule: require('./lib/Schedule.js'),
 	Upgrade: require('./lib/upgrade/Upgrade.js'),
 	Fixtures: require('./lib/Fixtures.js'),
-	Log: require('./lib/Log.js')
-}
+	Log: require('./lib/Log.js'),
+	Bristol: require('./lib/Bristol.js')
+};
