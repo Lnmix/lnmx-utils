@@ -16,6 +16,6 @@
     "lru-cache": "2.2.x",
     "simple-class": "~1.0.0",
     "async": "~0.2.9",
-    "bristol": "git://github.com/TomFrost/Bristol"
+    "bristol": "^0.2.2"
   }
 }
