@@ -1,6 +1,6 @@
 {
   "name": "lnmx-utils",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,7 @@
   "dependencies": {
     "lru-cache": "2.2.x",
     "simple-class": "~1.0.0",
-    "async": "~0.2.9"
+    "async": "~0.2.9",
+    "bristol": "^0.2.2"
   }
 }
