@@ -16,6 +16,8 @@
     "lru-cache": "2.2.x",
     "simple-class": "~1.0.0",
     "async": "~0.2.9",
-    "bristol": "^0.3.1"
+    "bristol": "^0.3.1",
+    "lynx": "^0.2.0",
+    "on-finished": "^2.1.1"
   }
 }
