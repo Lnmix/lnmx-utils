@@ -1,6 +1,6 @@
 {
-  "name": "lnmx-utils",
-  "version": "0.5.7",
+  "name": "@lnmx/utils",
+  "version": "0.5.9",
   "description": "",
   "main": "index.js",
   "scripts": {
