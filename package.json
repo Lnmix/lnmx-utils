@@ -1,6 +1,6 @@
 {
   "name": "@lnmx/utils",
-  "version": "0.5.9",
+  "version": "0.6.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,9 +13,10 @@
   "author": "Leadnomics",
   "license": "BSD",
   "dependencies": {
-    "lru-cache": "2.2.x",
-    "simple-class": "~1.0.0",
     "async": "~0.2.9",
-    "bristol": "^0.3.1"
+    "aws-sdk": "^2.2.11",
+    "bristol": "^0.3.3",
+    "lru-cache": "2.2.x",
+    "simple-class": "~1.0.0"
   }
 }
